@@ -2134,3 +2134,753 @@ LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dum
 [2025.06.13-19.36.35:909][823]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Cone_99ADCE99 Validating asset
 [2025.06.13-19.36.35:910][823]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Cylinder_DA258D66 Validating asset
 [2025.06.13-19.36.35:935][823]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-19.42.06:693][812]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8447.495117
+[2025.06.13-19.42.06:894][821]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-19.42.06:894][821]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8447.675781, Update Interval: 302.199158
+[2025.06.13-19.47.51:137][140]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8791.958008
+[2025.06.13-19.47.51:335][150]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-19.47.51:335][150]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8792.136719, Update Interval: 350.937836
+[2025.06.13-19.54.17:674][762]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9178.512695
+[2025.06.13-19.54.17:854][771]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-19.54.17:854][771]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9178.671875, Update Interval: 344.530762
+[2025.06.13-20.00.41:631][300]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9562.525391
+[2025.06.13-20.00.41:827][309]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.00.41:827][309]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9562.702148, Update Interval: 304.612579
+[2025.06.13-20.06.42:646][652]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9923.464844
+[2025.06.13-20.06.42:824][660]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.06.42:824][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9923.624023, Update Interval: 312.453369
+[2025.06.13-20.12.40:065][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10280.947266
+[2025.06.13-20.12.40:241][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.12.40:241][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10281.102539, Update Interval: 333.558777
+[2025.06.13-20.18.59:855][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10660.749023
+[2025.06.13-20.19.00:015][174]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.19.00:015][174]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10660.888672, Update Interval: 319.699097
+[2025.06.13-20.23.08:630][807]LogDerivedDataCache: C:/Users/Dani/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.13-20.25.11:123][ 44]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11032.006836
+[2025.06.13-20.25.11:302][ 52]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.25.11:302][ 52]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11032.163086, Update Interval: 351.183197
+[2025.06.13-20.31.46:889][187]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11427.740234
+[2025.06.13-20.31.47:063][195]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.31.47:063][195]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11427.895508, Update Interval: 335.388031
+[2025.06.13-20.38.01:537][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11802.425781
+[2025.06.13-20.38.01:733][245]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.38.01:733][245]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11802.601562, Update Interval: 335.303802
+[2025.06.13-20.44.15:764][301]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12176.705078
+[2025.06.13-20.44.16:846][355]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.44.16:846][355]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12177.765625, Update Interval: 301.743225
+[2025.06.13-20.50.10:361][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12531.301758
+[2025.06.13-20.50.10:560][348]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.50.10:560][348]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12531.481445, Update Interval: 322.647186
+[2025.06.13-20.56.05:035][381]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12885.997070
+[2025.06.13-20.56.05:216][389]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-20.56.05:216][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12886.158203, Update Interval: 339.595947
+[2025.06.13-21.02.44:166][699]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13285.112305
+[2025.06.13-21.02.44:364][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-21.02.44:365][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13285.291992, Update Interval: 353.309113
+[2025.06.13-21.03.48:088][704]LogAudioMixer: Display: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Altavoces (Realtek(R) Audio), InstanceID=1
+[2025.06.13-21.03.48:088][704]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{99848ff8-9858-4aca-af0c-0694be12bb13}', because: 'FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged', force=1
+[2025.06.13-21.03.48:127][704]LogAudioMixer: Display: FMixerPlatformXAudio2::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{99848ff8-9858-4aca-af0c-0694be12bb13}]
+[2025.06.13-21.03.48:127][704]LogAudioMixer: Display: FMixerPlatformXAudio2::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2025.06.13-21.03.48:127][704]LogAudioMixer: Display: FMixerPlatformXAudio2::PerformDeviceSwap - AsyncTask Start. Because=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged
+[2025.06.13-21.03.48:464][705]LogAudioMixer: Display: FMixerPlatformXAudio2::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{99848ff8-9858-4aca-af0c-0694be12bb13}, Name=Altavoces (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=157.75
+[2025.06.13-21.03.48:464][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.06.13-21.03.48:464][705]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.06.13-21.03.48:467][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.06.13-21.06.29:965][445]Cmd: TRANSACTION UNDO
+[2025.06.13-21.06.29:965][445]LogEditorTransaction: Undo Scale Elements
+[2025.06.13-21.06.32:847][481]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.13-21.07.19:082][797]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.07.21:344][863]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.07.30:245][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.08.14:109][401]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.08.15:498][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.08.26:694][765]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.08.41:916][195]LogInteractiveToolsContext: Display: This tool appends multiple input object to create new objects, and optionally replaces the one of the input objects.
+[2025.06.13-21.08.43:312][223]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3
+[2025.06.13-21.08.43:314][223]LogStaticMesh: Display: Building static mesh Combined_CAB6A3F3 (Required Memory Estimate: 0.640282 MB)...
+[2025.06.13-21.08.43:316][223]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_38F3ABB7E61ACD7102_1588139967
+[2025.06.13-21.08.43:318][223]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3
+[2025.06.13-21.08.46:711][223]LogMeshUtilities: Finished distance field build in 3.4s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 71% occupied, 0 triangles, Combined_CAB6A3F3
+[2025.06.13-21.08.46:838][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.08.46:872][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.06.13-21.08.46:880][223]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.06.13-21.08.46:881][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.08.46:910][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.06.13-21.08.46:911][223]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.06.13-21.08.46:913][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.08.46:941][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.06.13-21.08.46:942][223]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.06.13-21.08.46:944][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.08.46:970][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.06.13-21.08.46:971][223]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.06.13-21.08.46:973][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.08.47:000][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.06.13-21.08.47:001][223]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.06.13-21.08.47:003][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.08.47:030][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.06.13-21.08.47:032][223]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.06.13-21.08.47:034][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.08.47:061][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.06.13-21.08.47:062][223]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.06.13-21.08.47:065][223]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.08.47:091][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.06.13-21.08.47:092][223]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.06.13-21.08.52:673][364]LogMeshUtilities: Finished distance field build in 6.0s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 71% occupied, 0 triangles, Combined_CAB6A3F3
+[2025.06.13-21.08.53:434][372]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3
+[2025.06.13-21.08.53:567][372]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.06.13-21.09.14:883][617]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13675.644531
+[2025.06.13-21.09.15:155][622]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-21.09.15:155][622]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13675.863281, Update Interval: 323.518799
+[2025.06.13-21.10.32:000][242]LogEditorTransaction: Undo Translate Collision
+[2025.06.13-21.12.21:220][521]LogEditorTransaction: Undo Translate Collision
+[2025.06.13-21.13.30:093][916]LogEditorTransaction: Undo Translate Collision
+[2025.06.13-21.13.37:569][ 90]LogEditorTransaction: Undo Rotate Collision
+[2025.06.13-21.13.39:643][131]LogEditorTransaction: Redo Rotate Collision
+[2025.06.13-21.15.23:428][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14044.159180
+[2025.06.13-21.15.23:645][656]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-21.15.23:645][656]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14044.339844, Update Interval: 322.046570
+[2025.06.13-21.17.18:245][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.17.18:376][446]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3] ([1] browsable assets)...
+[2025.06.13-21.17.18:450][446]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3]
+[2025.06.13-21.17.18:450][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3]
+[2025.06.13-21.17.18:458][446]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3
+[2025.06.13-21.17.18:458][446]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Combined_CAB6A3F36E73DC9D4CEBBF0822A45F87155B5377.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.uasset'
+[2025.06.13-21.17.18:475][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 228.848 ms (total: 2.23 sec)
+[2025.06.13-21.17.18:621][446]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.17.18:621][446]LogContentValidation: Enabled validators:
+[2025.06.13-21.17.18:621][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.17.18:621][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.17.18:621][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.17.18:621][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.17.18:621][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.17.18:621][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.17.18:621][446]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3 Validating asset
+[2025.06.13-21.17.18:653][446]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.17.19:306][465]LogSlate: Window 'Combined_CAB6A3F3' being destroyed
+[2025.06.13-21.17.19:456][465]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.17.19:456][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.17.19:542][465]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.06.13-21.17.20:871][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.13-21.17.21:838][517]LogSlate: Window 'Save Content' being destroyed
+[2025.06.13-21.17.21:883][517]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.17.22:048][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.06.13-21.17.22:071][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.06.13-21.17.22:091][517]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.06.13-21.17.22:099][517]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/RA/1IIF5RGSPRT5KSVVJ5AU2W
+[2025.06.13-21.17.22:099][517]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/1IIF5RGSPRT5KSVVJ5AU2WC0E2867C42966627BAB8DE8C563E2AD8.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/RA/1IIF5RGSPRT5KSVVJ5AU2W.uasset'
+[2025.06.13-21.17.22:103][517]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/I4/7KM2DXNNBSCC5WNPYQ4S6B
+[2025.06.13-21.17.22:103][517]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/7KM2DXNNBSCC5WNPYQ4S6BE90421644980B53193AEFE9DCCEC3B34.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/I4/7KM2DXNNBSCC5WNPYQ4S6B.uasset'
+[2025.06.13-21.17.22:108][517]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/63/XGO3QK69PX66SPSOSC714N
+[2025.06.13-21.17.22:108][517]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/XGO3QK69PX66SPSOSC714N2353EB71496C56B3DA2091B72320F2D8.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/63/XGO3QK69PX66SPSOSC714N.uasset'
+[2025.06.13-21.17.22:112][517]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IV/DE99RDCD7T2KAU1U6NNPA8
+[2025.06.13-21.17.22:112][517]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/DE99RDCD7T2KAU1U6NNPA8B69582B3480152FC0DC1E186E1D23985.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/IV/DE99RDCD7T2KAU1U6NNPA8.uasset'
+[2025.06.13-21.17.22:115][517]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/4H/8Y6SJFT3ROML7HEB72WLS2
+[2025.06.13-21.17.22:116][517]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/8Y6SJFT3ROML7HEB72WLS27E3EEDFB4B69699DADE12AAC1E16ADFA.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/1/4H/8Y6SJFT3ROML7HEB72WLS2.uasset'
+[2025.06.13-21.17.22:121][517]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/6X/4ZTPFD9TBYTQE80CJMGDMD
+[2025.06.13-21.17.22:121][517]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/4ZTPFD9TBYTQE80CJMGDMDCBA689CC4893C810A0B2F7B93F391093.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/6/6X/4ZTPFD9TBYTQE80CJMGDMD.uasset'
+[2025.06.13-21.17.22:125][517]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/F3/C72BIZKCT0WOOXC79WZG17
+[2025.06.13-21.17.22:125][517]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/C72BIZKCT0WOOXC79WZG171168A1DE4355D4C68E30498686BA241D.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/F3/C72BIZKCT0WOOXC79WZG17.uasset'
+[2025.06.13-21.17.22:142][517]LogFileHelpers: InternalPromptForCheckoutAndSave took 258.840 ms (total: 2.49 sec)
+[2025.06.13-21.17.22:268][517]LogContentValidation: Display: Starting to validate 7 assets
+[2025.06.13-21.17.22:268][517]LogContentValidation: Enabled validators:
+[2025.06.13-21.17.22:268][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.17.22:268][517]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.17.22:268][517]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.17.22:268][517]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.17.22:268][517]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.17.22:268][517]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.17.22:269][517]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.06.13-21.17.22:326][517]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.18.12:981][322]Cmd: TRANSACTION UNDO
+[2025.06.13-21.18.12:981][322]LogEditorTransaction: Undo Clicking on Elements
+[2025.06.13-21.18.14:627][384]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.18.20:005][662]LogInteractiveToolsContext: Display: This tool appends multiple input object to create new objects, and optionally replaces the one of the input objects.
+[2025.06.13-21.18.21:551][745]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6.Combined_93C6C0C6
+[2025.06.13-21.18.21:553][745]LogStaticMesh: Display: Building static mesh Combined_93C6C0C6 (Required Memory Estimate: 0.146372 MB)...
+[2025.06.13-21.18.21:554][745]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6.Combined_93C6C0C6
+[2025.06.13-21.18.21:555][745]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6.Combined_93C6C0C6 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_38F3ABB7E61ACE7102_1092637144
+[2025.06.13-21.18.22:755][745]LogMeshUtilities: Finished distance field build in 1.2s - 126x126x98 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 39% occupied, 0 triangles, Combined_93C6C0C6
+[2025.06.13-21.18.22:824][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.18.22:851][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.06.13-21.18.22:855][745]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2025.06.13-21.18.22:857][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.18.22:881][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.13-21.18.22:881][745]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.06.13-21.18.22:883][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.18.22:908][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.06.13-21.18.22:909][745]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.06.13-21.18.22:910][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.18.22:934][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.06.13-21.18.22:935][745]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.06.13-21.18.22:937][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.18.22:961][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.06.13-21.18.22:962][745]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.06.13-21.18.22:963][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.18.22:986][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.06.13-21.18.22:987][745]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.06.13-21.18.22:989][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.18.23:013][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.06.13-21.18.23:015][745]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.06.13-21.18.24:159][803]LogMeshUtilities: Finished distance field build in 1.4s - 126x126x98 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 39% occupied, 0 triangles, Combined_93C6C0C6
+[2025.06.13-21.18.26:882][934]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6.Combined_93C6C0C6
+[2025.06.13-21.18.27:004][934]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.06.13-21.20.48:210][811]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.20.48:454][811]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6] ([1] browsable assets)...
+[2025.06.13-21.20.48:553][811]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6.Combined_93C6C0C6]
+[2025.06.13-21.20.48:554][811]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6]
+[2025.06.13-21.20.48:558][811]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6
+[2025.06.13-21.20.48:558][811]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Combined_93C6C0C60D9EE60645D3A54145F948BA4FEC29AB.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6.uasset'
+[2025.06.13-21.20.48:575][811]LogFileHelpers: InternalPromptForCheckoutAndSave took 365.679 ms (total: 2.85 sec)
+[2025.06.13-21.20.48:717][811]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.20.48:717][811]LogContentValidation: Enabled validators:
+[2025.06.13-21.20.48:717][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.20.48:718][811]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.20.48:718][811]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.20.48:718][811]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.20.48:718][811]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.20.48:718][811]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.20.48:718][811]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Combined_93C6C0C6 Validating asset
+[2025.06.13-21.20.48:753][811]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.20.49:650][836]LogSlate: Window 'Combined_93C6C0C6' being destroyed
+[2025.06.13-21.20.49:813][836]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.20.49:813][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.20.49:874][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.13-21.20.50:763][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.06.13-21.20.51:753][867]LogSlate: Window 'Save Content' being destroyed
+[2025.06.13-21.20.51:796][867]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.20.51:952][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.06.13-21.20.51:973][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.06.13-21.20.51:993][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.06.13-21.20.52:000][867]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/9L/0Q1ABUUOL4ETRH4JJO27KR
+[2025.06.13-21.20.52:000][867]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/0Q1ABUUOL4ETRH4JJO27KRDD35459A4201538C86F88E989C9A2754.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/9L/0Q1ABUUOL4ETRH4JJO27KR.uasset'
+[2025.06.13-21.20.52:016][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 219.826 ms (total: 3.07 sec)
+[2025.06.13-21.20.52:146][867]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.20.52:146][867]LogContentValidation: Enabled validators:
+[2025.06.13-21.20.52:146][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.20.52:146][867]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.20.52:146][867]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.20.52:146][867]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.20.52:146][867]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.20.52:146][867]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.20.52:146][867]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.06.13-21.20.52:198][867]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.20.58:313][ 98]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.20.59:868][157]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.21.16:016][942]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14396.716797
+[2025.06.13-21.21.16:200][951]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-21.21.16:201][951]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14396.878906, Update Interval: 358.503967
+[2025.06.13-21.21.18:979][ 88]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.13-21.21.18:981][ 88]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.13-21.21.20:473][173]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.06.13-21.21.30:334][736]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/Dani/Cone_307272AA.Cone_307272AA
+[2025.06.13-21.21.30:336][736]LogStaticMesh: Display: Building static mesh Cone_307272AA (Required Memory Estimate: 0.109482 MB)...
+[2025.06.13-21.21.30:337][736]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/Dani/Cone_307272AA.Cone_307272AA
+[2025.06.13-21.21.30:338][736]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/Dani/Cone_307272AA.Cone_307272AA as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_38F3ABB7E61ACE7102_1281420145
+[2025.06.13-21.21.34:562][905]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.21.47:008][440]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.21.52:536][705]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.22.27:325][399]LogInteractiveToolsContext: Display: This tool appends multiple input object to create new objects, and optionally replaces the one of the input objects.
+[2025.06.13-21.22.28:568][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC.Combined_206B92BC
+[2025.06.13-21.22.28:569][461]LogStaticMesh: Display: Building static mesh Combined_206B92BC (Required Memory Estimate: 0.210899 MB)...
+[2025.06.13-21.22.28:570][461]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC.Combined_206B92BC
+[2025.06.13-21.22.28:571][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC.Combined_206B92BC as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_38F3ABB7E61ACE7102_1339654147
+[2025.06.13-21.22.29:881][461]LogMeshUtilities: Finished distance field build in 1.3s - 84x84x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 58% occupied, 0 triangles, Combined_206B92BC
+[2025.06.13-21.22.29:965][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.22.29:995][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.06.13-21.22.30:000][461]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.06.13-21.22.30:001][461]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.22.30:027][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.06.13-21.22.30:028][461]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.06.13-21.22.31:431][513]LogMeshUtilities: Finished distance field build in 1.5s - 84x84x126 sparse distance field, 0.9Mb total, 0.0Mb always loaded, 58% occupied, 0 triangles, Combined_206B92BC
+[2025.06.13-21.22.32:453][557]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC.Combined_206B92BC
+[2025.06.13-21.22.32:579][557]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.06.13-21.23.08:631][354]LogDerivedDataCache: C:/Users/Dani/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.13-21.23.17:591][562]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.23.17:803][562]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC] ([1] browsable assets)...
+[2025.06.13-21.23.17:846][562]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC.Combined_206B92BC]
+[2025.06.13-21.23.17:846][562]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC]
+[2025.06.13-21.23.17:850][562]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC
+[2025.06.13-21.23.17:850][562]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Combined_206B92BC85BFD63348BCAE3E1DB455ACB736BD43.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Combined_206B92BC.uasset'
+[2025.06.13-21.23.17:866][562]LogFileHelpers: InternalPromptForCheckoutAndSave took 275.258 ms (total: 3.35 sec)
+[2025.06.13-21.23.17:992][562]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.23.17:992][562]LogContentValidation: Enabled validators:
+[2025.06.13-21.23.17:992][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.23.17:992][562]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.23.17:992][562]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.23.17:992][562]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.23.17:992][562]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.23.17:992][562]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.23.17:993][562]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Combined_206B92BC Validating asset
+[2025.06.13-21.23.18:023][562]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.23.19:104][591]LogSlate: Window 'Combined_206B92BC' being destroyed
+[2025.06.13-21.23.19:267][591]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.23.19:267][591]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.23.19:325][591]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2025.06.13-21.23.20:426][636]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.23.20:601][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.06.13-21.23.20:623][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.06.13-21.23.20:643][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.06.13-21.23.20:646][636]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/F1/HK4EZJ8CCVZQMAJOCU3FSF
+[2025.06.13-21.23.20:646][636]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/HK4EZJ8CCVZQMAJOCU3FSF22CDC0964ED5572CC8D533BC07DB49DA.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/C/F1/HK4EZJ8CCVZQMAJOCU3FSF.uasset'
+[2025.06.13-21.23.20:663][636]LogFileHelpers: InternalPromptForCheckoutAndSave took 237.174 ms (total: 3.59 sec)
+[2025.06.13-21.23.20:790][636]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.23.20:790][636]LogContentValidation: Enabled validators:
+[2025.06.13-21.23.20:790][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.23.20:790][636]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.23.20:790][636]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.23.20:790][636]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.23.20:790][636]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.23.20:790][636]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.23.20:790][636]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.06.13-21.23.20:843][636]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.23.21:593][668]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.06.13-21.23.22:489][668]LogSlate: Window 'Save Content' being destroyed
+[2025.06.13-21.23.22:529][668]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.23.22:664][668]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Cone_307272AA] ([1] browsable assets)...
+[2025.06.13-21.23.22:729][668]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Cone_307272AA.Cone_307272AA]
+[2025.06.13-21.23.22:729][668]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Cone_307272AA]
+[2025.06.13-21.23.22:734][668]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Cone_307272AA
+[2025.06.13-21.23.22:734][668]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Cone_307272AA304B304F44767CF4A9A74EBBB94CE64D.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Cone_307272AA.uasset'
+[2025.06.13-21.23.22:750][668]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.575 ms (total: 3.81 sec)
+[2025.06.13-21.23.22:874][668]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.23.22:874][668]LogContentValidation: Enabled validators:
+[2025.06.13-21.23.22:874][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.23.22:874][668]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.23.22:874][668]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.23.22:874][668]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.23.22:874][668]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.23.22:874][668]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.23.22:874][668]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Cone_307272AA Validating asset
+[2025.06.13-21.23.22:903][668]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.23.38:809][117]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.23.38:809][117]Can't find target element.
+[2025.06.13-21.23.40:338][187]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.23.44:938][390]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.23.57:579][  0]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.13-21.23.57:580][  0]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.13-21.23.58:525][ 53]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.06.13-21.23.59:542][111]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/Dani/Box_4985A397.Box_4985A397
+[2025.06.13-21.23.59:542][111]LogStaticMesh: Display: Building static mesh Box_4985A397 (Required Memory Estimate: 0.027864 MB)...
+[2025.06.13-21.23.59:543][111]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/Dani/Box_4985A397.Box_4985A397
+[2025.06.13-21.23.59:545][111]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/Dani/Box_4985A397.Box_4985A397 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_38F3ABB7E61ACE7102_1430628148
+[2025.06.13-21.24.00:283][139]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.24.31:467][562]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/Dani/Box_4985A397.Box_4985A397
+[2025.06.13-21.24.31:616][562]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.06.13-21.24.38:252][661]LogSlate: Window 'Box_4985A397' being destroyed
+[2025.06.13-21.24.38:426][661]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.24.38:426][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.24.38:482][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.06.13-21.25.16:055][409]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.25.16:234][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.06.13-21.25.16:260][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.06.13-21.25.16:282][409]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.06.13-21.25.16:286][409]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/JU/IJN59ELK8VGEIHOW14QR72
+[2025.06.13-21.25.16:287][409]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/IJN59ELK8VGEIHOW14QR72014BEAE9475605C19AB12BACE2F8496E.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/JU/IJN59ELK8VGEIHOW14QR72.uasset'
+[2025.06.13-21.25.16:290][409]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/B6/FX045UMCU0JHW2PESQMPA6
+[2025.06.13-21.25.16:290][409]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/FX045UMCU0JHW2PESQMPA691991084438320A7E51870B7DF40E271.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/B6/FX045UMCU0JHW2PESQMPA6.uasset'
+[2025.06.13-21.25.16:307][409]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.336 ms (total: 4.06 sec)
+[2025.06.13-21.25.16:439][409]LogContentValidation: Display: Starting to validate 2 assets
+[2025.06.13-21.25.16:439][409]LogContentValidation: Enabled validators:
+[2025.06.13-21.25.16:439][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.25.16:439][409]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.25.16:439][409]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.25.16:439][409]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.25.16:439][409]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.25.16:439][409]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.25.16:439][409]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.06.13-21.25.16:491][409]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.25.18:446][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.06.13-21.25.19:628][508]LogSlate: Window 'Save Content' being destroyed
+[2025.06.13-21.25.19:669][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.25.19:793][508]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Box_4985A397] ([1] browsable assets)...
+[2025.06.13-21.25.19:922][508]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Box_4985A397.Box_4985A397]
+[2025.06.13-21.25.19:922][508]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Box_4985A397]
+[2025.06.13-21.25.19:926][508]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Box_4985A397
+[2025.06.13-21.25.19:926][508]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Box_4985A397E005252E49872D03D0B302B3550FDB96.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Box_4985A397.uasset'
+[2025.06.13-21.25.19:946][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 277.293 ms (total: 4.34 sec)
+[2025.06.13-21.25.20:072][508]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.25.20:072][508]LogContentValidation: Enabled validators:
+[2025.06.13-21.25.20:072][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.25.20:072][508]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.25.20:072][508]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.25.20:072][508]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.25.20:072][508]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.25.20:072][508]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.25.20:072][508]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Box_4985A397 Validating asset
+[2025.06.13-21.25.20:101][508]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.25.47:017][448]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.26.14:773][431]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.26.40:058][ 86]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.26.43:309][245]Cmd: TRANSACTION UNDO
+[2025.06.13-21.26.43:309][245]LogEditorTransaction: Undo Move Elements
+[2025.06.13-21.27.51:831][210]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.28.05:307][847]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 14806.085938
+[2025.06.13-21.28.05:491][857]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-21.28.05:491][857]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 14806.253906, Update Interval: 323.288055
+[2025.06.13-21.28.38:909][244]Cmd: DELETE
+[2025.06.13-21.28.38:909][244]Cmd: ACTOR DELETE
+[2025.06.13-21.28.38:912][244]LogEditorActor: Deleted Actor: Collectables_C
+[2025.06.13-21.28.38:942][244]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.06.13-21.28.38:951][244]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2025.06.13-21.29.41:540][780]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.30.06:961][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.30.07:152][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.06.13-21.30.07:176][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.06.13-21.30.07:198][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.06.13-21.30.07:202][995]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/JU/IJN59ELK8VGEIHOW14QR72
+[2025.06.13-21.30.07:203][995]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/IJN59ELK8VGEIHOW14QR72425270784A1AC1245B198FB478F02D1F.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/JU/IJN59ELK8VGEIHOW14QR72.uasset'
+[2025.06.13-21.30.07:207][995]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/VZ/TQPQ2JIL8NALYNZCEOHJVB
+[2025.06.13-21.30.07:208][995]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/TQPQ2JIL8NALYNZCEOHJVBF33227474EFF2F236DF91CBECCFC296D.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/VZ/TQPQ2JIL8NALYNZCEOHJVB.uasset'
+[2025.06.13-21.30.07:213][995]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/H4/25ZEL159ELFBY050DZTAZY
+[2025.06.13-21.30.07:213][995]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/25ZEL159ELFBY050DZTAZY80B307134B6B476AC945519FD0DE343A.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/H4/25ZEL159ELFBY050DZTAZY.uasset'
+[2025.06.13-21.30.07:229][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 267.690 ms (total: 4.60 sec)
+[2025.06.13-21.30.07:354][995]LogContentValidation: Display: Starting to validate 3 assets
+[2025.06.13-21.30.07:354][995]LogContentValidation: Enabled validators:
+[2025.06.13-21.30.07:354][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.30.07:354][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.30.07:354][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.30.07:354][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.30.07:354][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.30.07:354][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.30.07:354][995]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.06.13-21.30.07:407][995]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.30.08:571][ 53]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.13-21.30.08:580][ 53]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.06.13-21.30.08:580][ 53]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.06.13-21.30.08:590][ 53]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 9.877 ms (total: 16.207 ms)
+[2025.06.13-21.30.08:594][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.13-21.30.08:597][ 53]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.06.13-21.30.08:613][ 53]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.06.13-21.30.08:615][ 53]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.057 ms (total: 5.791 ms)
+[2025.06.13-21.30.08:616][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017808s)
+[2025.06.13-21.30.08:616][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.017863s)
+[2025.06.13-21.30.08:641][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.06.13-21.30.08:643][ 53]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.06.13-21.30.08:648][ 53]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.13-21.30.08:648][ 53]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.13-21.30.08:648][ 53]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.13-21.30.08:648][ 53]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.13-21.30.08:652][ 53]LogWorldPartition: Display: WorldPartition initialize took 4.020 ms (total: 131.995 ms)
+[2025.06.13-21.30.08:653][ 53]LogPlayLevel: PIE: World Init took: (0.009055s)
+[2025.06.13-21.30.08:654][ 53]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.06.13-21.30.08:654][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.13-21.30.08:654][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.13-21.30.08:654][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.13-21.30.08:654][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.13-21.30.08:654][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.13-21.30.08:654][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.13-21.30.08:654][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.13-21.30.08:654][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.13-21.30.08:655][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.13-21.30.08:655][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.13-21.30.08:655][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.13-21.30.08:658][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.13-21.30.08:690][ 53]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.06.13-21.30.08:690][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.13-21.30.08:690][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.13-21.30.08:690][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.13-21.30.08:691][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.06.13-21.30.08:691][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.06.13-21.30.08:693][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.06.13-21.30.08:693][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.06.13-21.30.08:693][ 53]LogInit: FAudioDevice initialized with ID 3.
+[2025.06.13-21.30.08:693][ 53]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2025.06.13-21.30.08:693][ 53]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.13-21.30.08:704][ 53]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.06.13-21.30.08:709][ 53]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2025.06.13-23.30.08
+[2025.06.13-21.30.08:710][ 53]LogWorld: Bringing up level for play took: 0.005930
+[2025.06.13-21.30.08:716][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.06.13-21.30.08:737][ 53]PIE: Server logged in
+[2025.06.13-21.30.08:741][ 53]PIE: Play in editor total start time 0,161 seconds.
+[2025.06.13-21.30.27:197][625]LogBlueprintUserMessages: [Collectables_C_UAID_00919E55DBE6B67102_1523820856] Collision
+[2025.06.13-21.30.27:197][625]LogBlueprintUserMessages: [Collectables_C_UAID_00919E55DBE6B67102_1523820856] 1
+[2025.06.13-21.30.45:326][460]LogBlueprintUserMessages: [Collectables_C_UAID_00919E55DBE6B87102_1722090209] Collision
+[2025.06.13-21.30.45:326][460]LogBlueprintUserMessages: [Collectables_C_UAID_00919E55DBE6B87102_1722090209] 2
+[2025.06.13-21.31.04:060][340]LogBlueprintUserMessages: [Collectables_C_UAID_00919E55DBE6B87102_1770372210] Collision
+[2025.06.13-21.31.04:061][340]LogBlueprintUserMessages: [Collectables_C_UAID_00919E55DBE6B87102_1770372210] 3
+[2025.06.13-21.31.10:785][653]LogBlueprintUserMessages: [Collectables_C_UAID_38F3ABB7E61AC77102_2024580902] Collision
+[2025.06.13-21.31.10:785][653]LogBlueprintUserMessages: [Collectables_C_UAID_38F3ABB7E61AC77102_2024580902] 4
+[2025.06.13-21.31.28:037][467]LogBlueprintUserMessages: [Collectables_C_UAID_38F3ABB7E61ACE7102_1662070150] Collision
+[2025.06.13-21.31.28:037][467]LogBlueprintUserMessages: [Collectables_C_UAID_38F3ABB7E61ACE7102_1662070150] 5
+[2025.06.13-21.31.43:847][225]LogBlueprintUserMessages: [Collectables_C_UAID_00919E55DBE6B87102_1451508207] Collision
+[2025.06.13-21.31.43:847][225]LogBlueprintUserMessages: [Collectables_C_UAID_00919E55DBE6B87102_1451508207] 6
+[2025.06.13-21.32.03:341][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.13-21.32.03:342][128]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.06.13-21.32.03:342][128]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.32.03:342][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.32.03:342][128]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.06.13-21.32.03:349][128]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.13-21.32.03:354][128]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.32.03:375][128]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.13-21.32.03:375][128]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.06.13-21.32.03:376][128]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.06.13-21.32.03:378][128]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.06.13-21.32.03:389][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.06.13-21.32.03:515][129]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.06.13-21.32.21:689][247]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.32.24:413][374]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.06.13-21.32.34:525][882]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.13-21.32.34:527][882]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.13-21.32.44:275][407]LogInteractiveToolsContext: Display: Select triangles to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2025.06.13-21.32.44:275][407]LogInteractiveToolsContext: Warning: 
+[2025.06.13-21.33.00:325][341]LogStaticMesh: Display: Building static mesh Combined_CAB6A3F3 (Required Memory Estimate: 0.640282 MB)...
+[2025.06.13-21.33.00:327][341]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3
+[2025.06.13-21.33.03:884][512]LogMeshUtilities: Finished distance field build in 3.6s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 71% occupied, 0 triangles, Combined_CAB6A3F3
+[2025.06.13-21.33.04:400][536]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3
+[2025.06.13-21.33.04:539][536]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.06.13-21.33.28:884][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.33.29:078][ 67]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3] ([1] browsable assets)...
+[2025.06.13-21.33.29:149][ 67]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3]
+[2025.06.13-21.33.29:149][ 67]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3]
+[2025.06.13-21.33.29:157][ 67]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3
+[2025.06.13-21.33.29:157][ 67]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Combined_CAB6A3F38AD6E225490FAE598A474EA8703ED825.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.uasset'
+[2025.06.13-21.33.29:177][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 292.754 ms (total: 4.90 sec)
+[2025.06.13-21.33.29:320][ 67]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.33.29:320][ 67]LogContentValidation: Enabled validators:
+[2025.06.13-21.33.29:320][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.33.29:320][ 67]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.33.29:320][ 67]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.33.29:320][ 67]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.33.29:320][ 67]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.33.29:320][ 67]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.33.29:320][ 67]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3 Validating asset
+[2025.06.13-21.33.29:775][ 79]LogSlate: Window 'Combined_CAB6A3F3' being destroyed
+[2025.06.13-21.33.29:946][ 79]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.33.29:946][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.33.30:022][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.06.13-21.33.30:669][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.33.30:860][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.06.13-21.33.30:881][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.06.13-21.33.30:903][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.06.13-21.33.30:906][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/F3/C72BIZKCT0WOOXC79WZG17
+[2025.06.13-21.33.30:906][106]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/C72BIZKCT0WOOXC79WZG17AD29D74E447048BBF58897A5D6F0723A.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/5/F3/C72BIZKCT0WOOXC79WZG17.uasset'
+[2025.06.13-21.33.30:926][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.456 ms (total: 5.15 sec)
+[2025.06.13-21.33.31:048][106]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.33.31:048][106]LogContentValidation: Enabled validators:
+[2025.06.13-21.33.31:048][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.33.31:048][106]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.33.31:048][106]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.33.31:048][106]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.33.31:048][106]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.33.31:048][106]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.33.31:048][106]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.06.13-21.33.39:105][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.33.39:275][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.06.13-21.33.39:296][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.06.13-21.33.39:317][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.06.13-21.33.39:333][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 226.998 ms (total: 5.38 sec)
+[2025.06.13-21.33.42:001][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.06.13-21.33.42:008][586]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.06.13-21.33.42:008][586]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.06.13-21.33.42:010][586]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 1.488 ms (total: 17.696 ms)
+[2025.06.13-21.33.42:010][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.06.13-21.33.42:038][586]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.06.13-21.33.42:050][586]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.06.13-21.33.42:052][586]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.656 ms (total: 8.448 ms)
+[2025.06.13-21.33.42:052][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013420s)
+[2025.06.13-21.33.42:052][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.013471s)
+[2025.06.13-21.33.42:072][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.06.13-21.33.42:073][586]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.06.13-21.33.42:076][586]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.06.13-21.33.42:077][586]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.06.13-21.33.42:077][586]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.06.13-21.33.42:077][586]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.06.13-21.33.42:079][586]LogWorldPartition: Display: WorldPartition initialize took 3.163 ms (total: 135.159 ms)
+[2025.06.13-21.33.42:079][586]LogPlayLevel: PIE: World Init took: (0.005469s)
+[2025.06.13-21.33.42:080][586]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.06.13-21.33.42:080][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.06.13-21.33.42:080][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.06.13-21.33.42:080][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.06.13-21.33.42:080][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.06.13-21.33.42:080][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.06.13-21.33.42:080][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.06.13-21.33.42:080][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.06.13-21.33.42:080][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.06.13-21.33.42:080][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.06.13-21.33.42:080][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.06.13-21.33.42:080][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.06.13-21.33.42:083][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.06.13-21.33.42:113][586]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (Realtek(R) Audio)
+[2025.06.13-21.33.42:113][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.06.13-21.33.42:113][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.06.13-21.33.42:113][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.06.13-21.33.42:114][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.06.13-21.33.42:114][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.06.13-21.33.42:116][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.06.13-21.33.42:116][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.06.13-21.33.42:116][586]LogInit: FAudioDevice initialized with ID 4.
+[2025.06.13-21.33.42:116][586]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_FirstPerson'.
+[2025.06.13-21.33.42:116][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.13-21.33.42:121][586]LogLoad: Game class is 'GM_FirstPerson_C'
+[2025.06.13-21.33.42:125][586]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 60) at 2025.06.13-23.33.42
+[2025.06.13-21.33.42:126][586]LogWorld: Bringing up level for play took: 0.004184
+[2025.06.13-21.33.42:130][586]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.06.13-21.33.42:139][586]PIE: Server logged in
+[2025.06.13-21.33.42:141][586]PIE: Play in editor total start time 0,132 seconds.
+[2025.06.13-21.34.06:575][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.13-21.34.06:575][224]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.06.13-21.34.06:575][224]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.34.06:577][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.34.06:577][224]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.06.13-21.34.06:611][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.06.13-21.34.06:616][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.34.06:644][224]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.06.13-21.34.06:644][224]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.06.13-21.34.06:644][224]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.06.13-21.34.06:647][224]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.06.13-21.34.06:658][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.06.13-21.34.06:663][224]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.06.13-21.34.06:841][225]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.06.13-21.34.15:626][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 15176.421875
+[2025.06.13-21.34.15:828][390]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.06.13-21.34.15:828][390]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 15176.591797, Update Interval: 306.729340
+[2025.06.13-21.34.23:572][596]LogInteractiveToolsContext: Display: Select triangles to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2025.06.13-21.34.23:572][596]LogInteractiveToolsContext: Warning: 
+[2025.06.13-21.34.29:571][753]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.13-21.34.29:572][753]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2025.06.13-21.34.31:269][803]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2025.06.13-21.34.32:230][829]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD.Box_8EA3A2FD
+[2025.06.13-21.34.32:230][829]LogStaticMesh: Display: Building static mesh Box_8EA3A2FD (Required Memory Estimate: 0.027864 MB)...
+[2025.06.13-21.34.32:231][829]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD.Box_8EA3A2FD
+[2025.06.13-21.34.32:234][829]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD.Box_8EA3A2FD as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_38F3ABB7E61ACE7102_2063316151
+[2025.06.13-21.34.51:420][345]LogInteractiveToolsContext: Display: Select triangles to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2025.06.13-21.34.51:420][345]LogInteractiveToolsContext: Warning: 
+[2025.06.13-21.34.53:889][413]LogStaticMesh: Display: Building static mesh Box_8EA3A2FD (Required Memory Estimate: 0.027864 MB)...
+[2025.06.13-21.34.53:890][413]LogStaticMesh: Built static mesh [0.00s] /Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD.Box_8EA3A2FD
+[2025.06.13-21.34.57:630][512]LogInteractiveToolsContext: Display: Select triangles to edit mesh. Use middle mouse on gizmo to reposition it. Hold Ctrl while translating or (in local mode) rotating to align to scene. Shift and Ctrl change marquee select behavior. Ctrl+R toggles Gizmo Orientation Lock.
+[2025.06.13-21.34.57:630][512]LogInteractiveToolsContext: Warning: 
+[2025.06.13-21.35.34:693][605]LogStaticMesh: Display: Building static mesh Combined_CAB6A3F3 (Required Memory Estimate: 0.640282 MB)...
+[2025.06.13-21.35.34:697][605]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3
+[2025.06.13-21.35.39:459][704]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3
+[2025.06.13-21.35.39:645][704]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.06.13-21.35.39:893][704]LogMeshUtilities: Finished distance field build in 5.2s - 126x126x126 sparse distance field, 2.4Mb total, 0.1Mb always loaded, 71% occupied, 0 triangles, Combined_CAB6A3F3
+[2025.06.13-21.35.46:833][767]LogSlate: Window 'Combined_CAB6A3F3' being destroyed
+[2025.06.13-21.35.47:118][767]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.35.47:118][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.35.47:212][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.06.13-21.35.51:359][883]LogInteractiveToolsContext: Display: Compute a Self-Union of the input meshes, to resolve self-intersections. Use the transform gizmos to tweak the positions of the input objects (can help to resolve errors/failures)
+[2025.06.13-21.35.52:190][904]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/FirstPerson/_GENERATED/Dani/Merge_67D22933.Merge_67D22933
+[2025.06.13-21.35.52:191][904]LogStaticMesh: Display: Building static mesh Merge_67D22933 (Required Memory Estimate: 0.948246 MB)...
+[2025.06.13-21.35.52:193][904]LogActorFactory: Actor Factory spawned StaticMesh /Game/FirstPerson/_GENERATED/Dani/Merge_67D22933.Merge_67D22933 as actor: StaticMeshActor /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.StaticMeshActor_UAID_38F3ABB7E61ACE7102_2143276152
+[2025.06.13-21.35.52:198][904]LogStaticMesh: Built static mesh [0.01s] /Game/FirstPerson/_GENERATED/Dani/Merge_67D22933.Merge_67D22933
+[2025.06.13-21.35.55:502][904]LogMeshUtilities: Finished distance field build in 3.3s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 71% occupied, 0 triangles, Merge_67D22933
+[2025.06.13-21.35.55:578][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.35.55:609][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.06.13-21.35.55:613][904]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.06.13-21.35.55:614][904]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.06.13-21.35.55:644][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.06.13-21.35.55:645][904]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.06.13-21.36.01:778][ 77]LogMeshUtilities: Finished distance field build in 6.3s - 126x126x126 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 71% occupied, 0 triangles, Merge_67D22933
+[2025.06.13-21.36.04:043][105]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/_GENERATED/Dani/Merge_67D22933.Merge_67D22933
+[2025.06.13-21.36.04:260][105]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.06.13-21.37.45:233][493]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.37.45:543][493]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Merge_67D22933] ([1] browsable assets)...
+[2025.06.13-21.37.45:676][493]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Merge_67D22933.Merge_67D22933]
+[2025.06.13-21.37.45:676][493]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Merge_67D22933]
+[2025.06.13-21.37.45:688][493]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Merge_67D22933
+[2025.06.13-21.37.45:688][493]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Merge_67D22933F9D1579E43266C7622C5B18B9832135A.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Merge_67D22933.uasset'
+[2025.06.13-21.37.45:750][493]LogFileHelpers: InternalPromptForCheckoutAndSave took 517.244 ms (total: 5.90 sec)
+[2025.06.13-21.37.45:944][493]LogContentValidation: Display: Starting to validate 1 assets
+[2025.06.13-21.37.45:944][493]LogContentValidation: Enabled validators:
+[2025.06.13-21.37.45:944][493]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.37.45:944][493]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.37.45:944][493]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.37.45:944][493]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.37.45:944][493]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.37.45:944][493]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.37.45:944][493]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Merge_67D22933 Validating asset
+[2025.06.13-21.37.46:074][493]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.37.48:702][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2025.06.13-21.37.50:044][524]LogSlate: Window 'Save Content' being destroyed
+[2025.06.13-21.37.50:107][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.06.13-21.37.50:369][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.06.13-21.37.50:403][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.06.13-21.37.50:428][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.06.13-21.37.50:431][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD] ([1] browsable assets)...
+[2025.06.13-21.37.50:460][524]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD.Box_8EA3A2FD]
+[2025.06.13-21.37.50:460][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD]
+[2025.06.13-21.37.50:466][524]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD
+[2025.06.13-21.37.50:466][524]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Box_8EA3A2FD63658933450501BD7B69FEB50458D2CA.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD.uasset'
+[2025.06.13-21.37.50:468][524]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3] ([1] browsable assets)...
+[2025.06.13-21.37.50:485][524]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.Combined_CAB6A3F3]
+[2025.06.13-21.37.50:485][524]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3]
+[2025.06.13-21.37.50:495][524]LogSavePackage: Moving output files for package: /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3
+[2025.06.13-21.37.50:498][524]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/Combined_CAB6A3F3317CA7DE4362A82C7088FE9F0911AACE.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3.uasset'
+[2025.06.13-21.37.50:503][524]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/03/HUOWX6GXLGVJS8TGY2BJB4
+[2025.06.13-21.37.50:503][524]LogSavePackage: Moving '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/HUOWX6GXLGVJS8TGY2BJB4FFDB87F44CC68CE015835995CF842C7B.tmp' to '../../../../../../Users/Dani/LevelDesign/YippieUnreal/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/B/03/HUOWX6GXLGVJS8TGY2BJB4.uasset'
+[2025.06.13-21.37.50:577][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 468.882 ms (total: 6.37 sec)
+[2025.06.13-21.37.50:782][524]LogContentValidation: Display: Starting to validate 3 assets
+[2025.06.13-21.37.50:782][524]LogContentValidation: Enabled validators:
+[2025.06.13-21.37.50:782][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.06.13-21.37.50:782][524]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.06.13-21.37.50:782][524]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.06.13-21.37.50:783][524]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.06.13-21.37.50:783][524]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.06.13-21.37.50:783][524]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.06.13-21.37.50:783][524]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Box_8EA3A2FD Validating asset
+[2025.06.13-21.37.50:783][524]AssetCheck: /Game/FirstPerson/_GENERATED/Dani/Combined_CAB6A3F3 Validating asset
+[2025.06.13-21.37.50:783][524]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.06.13-21.37.50:954][524]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Dani/LevelDesign/YippieUnreal/Saved/SourceControl/UncontrolledChangelists.json
+[2025.06.13-21.37.57:326][611]LogSlate: Window 'Merge_67D22933' being destroyed
+[2025.06.13-21.37.57:613][611]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.37.57:613][611]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.37.57:678][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.06.13-21.37.59:010][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.06.13-21.37.59:125][637]LogStall: Shutdown...
+[2025.06.13-21.37.59:125][637]LogStall: Shutdown complete.
+[2025.06.13-21.37.59:185][637]LogSlate: Window 'YippieUnreal - Unreal Editor' being destroyed
+[2025.06.13-21.37.59:188][637]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2025.06.13-21.37.59:758][637]Cmd: QUIT_EDITOR
+[2025.06.13-21.37.59:759][637]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.06.13-21.37.59:770][638]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.06.13-21.37.59:772][638]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.06.13-21.37.59:772][638]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.06.13-21.37.59:780][638]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.37.59:788][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.37.59:788][638]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2025.06.13-21.37.59:830][638]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.06.13-21.37.59:833][638]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.06.13-21.37.59:839][638]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.06.13-21.37.59:867][638]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.37.59:867][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.37.59:868][638]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.06.13-21.37.59:868][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.06.13-21.37.59:881][638]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.06.13-21.37.59:882][638]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.06.13-21.37.59:889][638]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.06.13-21.38.00:072][638]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.06.13-21.38.00:072][638]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.06.13-21.38.00:072][638]LogAudio: Display: Audio Device unregistered from world 'Lvl_FirstPerson'.
+[2025.06.13-21.38.00:072][638]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.06.13-21.38.00:072][638]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.06.13-21.38.00:077][638]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.06.13-21.38.00:096][638]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.06.13-21.38.00:096][638]LogAudio: Display: Audio Device Manager Shutdown
+[2025.06.13-21.38.00:109][638]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.06.13-21.38.00:110][638]LogExit: Preparing to exit.
+[2025.06.13-21.38.00:246][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.06.13-21.38.01:177][638]LogEditorDataStorage: Deinitializing
+[2025.06.13-21.38.01:545][638]LogDirectoryWatcher: Display: Refresh of ReadDirectoryChangesW failed. GetLastError code [6] Handle [FFFFFFFFFFFFFFFF], Path [C:/Users/Dani/LevelDesign/YippieUnreal/Content/]. Aborting watch request...
+[2025.06.13-21.38.01:588][638]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.06.13-21.38.01:772][638]LogExit: Editor shut down
+[2025.06.13-21.38.01:794][638]LogExit: Transaction tracking system shut down
+[2025.06.13-21.38.02:866][638]LogExit: Object subsystem successfully closed.
+[2025.06.13-21.38.02:988][638]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.06.13-21.38.03:470][638]LogMemoryProfiler: Shutdown
+[2025.06.13-21.38.03:472][638]LogNetworkingProfiler: Shutdown
+[2025.06.13-21.38.03:473][638]LoadingProfiler: Shutdown
+[2025.06.13-21.38.03:474][638]LogTimingProfiler: Shutdown
+[2025.06.13-21.38.03:487][638]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.06.13-21.38.03:489][638]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.06.13-21.38.04:147][638]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.06.13-21.38.04:158][638]LogNFORDenoise: NFORDenoise function shutting down
+[2025.06.13-21.38.04:201][638]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.06.13-21.38.04:201][638]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B22BB7BB3-43F0-9CFD-385F-0AB71FB9B1C3%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.0-43139311%2B%2B%2BUE5%2BRelease-5.6&UserID=093c33224dc944b27767fcaf79dbf716%7Ca491319ca42e41f682fb21a3e96cdacb%7Cfcc98cba-fd5a-4e10-baaf-601b0ff3d168&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.06.13-21.38.04:792][638]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.06.13-21.38.04:794][638]RenderDocPlugin: plugin has been unloaded.
+[2025.06.13-21.38.04:811][638]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.06.13-21.38.04:811][638]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.06.13-21.38.04:811][638]LogPakFile: Destroying PakPlatformFile
+[2025.06.13-21.38.05:653][638]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.06.13-21.38.05:698][638]LogExit: Exiting.
+[2025.06.13-21.38.05:726][638]Log file closed, 06/13/25 23:38:05
